@@ -36,9 +36,11 @@ Find the country that start with Y
 
 ### 2. SELECT from WORLD Tutorial
 
-### 3. 
+### 3. SELECT from NOBEL Tutorial
 
+### 4. SELECT within SELECT Tutorial
 
+### 5. SUM and COUNT
 
 ## Authors
 
